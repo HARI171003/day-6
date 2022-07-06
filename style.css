@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(assets/istockphoto-924215138-612x612.jpg);
+    background-size: cover;
+
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    position: absolute;
+    background-color: rgba(172, 147, 193, 0.663);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    text-align: center;
+    width: 80vw;
+    height: 50vh;
+    margin-top: 100px;
+    margin-left: 150px;
+    opacity: .8;
+}
+#input-no{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+/* .BG{
+    
+    
+} */
